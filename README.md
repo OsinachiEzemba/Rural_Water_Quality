@@ -36,7 +36,7 @@ Deliverables
 A demonstration of the application showcasing the successfully rural water quality model and its application, availing users with personalized interactions on viewing history counts of water quality and make future predictions about water quality.
 
 **Demo Video**
-[![Demo Video](https://youtu.be/aiPUkykGpmY/0.jpg)](https://youtu.be/aiPUkykGpmY)
+[![Demo Video](https://img.youtube.com/vi/aiPUkykGpmY/0.jpg)](https://youtu.be/aiPUkykGpmY)
 
 **Conclusion:**
 The Rural Water Quality Monitoring System aims to contribute significantly to water management and public health, providing actionable insights for stakeholders.
