@@ -1,5 +1,5 @@
 # Rural_Water_Quality
-Harnessing Data Analysis and Predictive Modeling to Enhance Water Quality Management in Catchment Areas
+Harnessing Data Analysis and Predictive Modeling to Enhance Water Quality Management in Catchment Areas of South-Africa.
 
 **NOTE:** Due to the sensitive nature of this project, it is not possible to share the code publicly.
 
