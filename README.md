@@ -48,6 +48,7 @@ The Rural Water Quality Monitoring System aims to contribute significantly to wa
 - Foster collaboration with government bodies, environmentalists, and engineers to share findings, improve strategies, and collectively address water quality challenges.
 
   **Acknowledgements**
+
 I would like to thank my team members for their participation and contributions:
 - Timmy Egbe
 - Damola Abiola
